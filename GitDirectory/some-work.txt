@@ -4,4 +4,8 @@ This is a final project for 705 Data Science Class.
 
 Here, I have a new idea.
 
+<<<<<<< HEAD
 This is banana
+=======
+This is an apple.
+>>>>>>> feature
